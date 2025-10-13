@@ -72,6 +72,6 @@ int main() {
     for (int i : arr) cout << i << " ";
     cout << endl;
     // Output: 10. After fill(0): 0 0 0 0 0
-
+    
     return 0;
 }
