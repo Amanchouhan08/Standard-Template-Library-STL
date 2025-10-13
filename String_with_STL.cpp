@@ -1,3 +1,4 @@
+//String with STL.
 #include <iostream>
 #include <string>
 #include <algorithm> // for reverse, transform
