@@ -9,7 +9,6 @@ int main() {
     string s1 = "Hello";
     string s2 = "World";
     string s3 = s1 + " " + s2; // concatenation using +
-
     cout << "1. Concatenation: " << s3 << endl;
     // Output: 1. Concatenation: Hello World
 
