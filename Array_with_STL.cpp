@@ -8,7 +8,6 @@ using namespace std;
 int main() {
     // 1️⃣ Create and initialize array
     array<int, 5> arr = {5, 2, 8, 1, 3};
-
     cout << "1. Original Array: ";
     for (int i : arr) cout << i << " ";
     cout << endl;
